@@ -1,0 +1,25 @@
+
+.homepage-background {
+    background-image: url('./b2.jpg'); /* Add your image here */
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.Welcome-page{
+    display: flex;
+    justify-content: space-between;
+    margin: auto;
+    padding: 5% 10%;
+    column-gap: 5%;
+    
+}
+
+
+
+
+
+
